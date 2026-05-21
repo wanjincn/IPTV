@@ -18,6 +18,7 @@ CCTV15,http://192.168.100.1:6799/rtp/239.49.0.128:8000
 CCTV16,http://192.168.100.1:6799/rtp/239.49.8.31:8000
 CCTV17,http://192.168.100.1:6799/rtp/239.49.8.52:9810
 CCTV4K,http://192.168.100.1:6799/rtp/239.49.0.82:8000
+CCTV8K,http://49.232.195.88:55667/cctv8k.m3u8
 CCTV8K,http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub
 CCTV8K,http://107.150.60.122/live/cctv8k.m3u8
 CCTV8K,http://yp.qqqtv.top/1/api.php?id=CCTV-8K%E8%B6%85%E9%AB%98%E6%B8%85&auth=666858
