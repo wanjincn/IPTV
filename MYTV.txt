@@ -145,7 +145,7 @@ PopC,http://m3u888.zabc.net/bx/api.php?id=popc
 北京体育休闲,http://m.061899.xyz/mg/bjty
 新视觉,http://120.76.248.139/live/bfgd/4200000249.m3u8
 新视觉,http://183.61.225.53:2380/hw1live.rxip.sc96655.com.huan.tv/live/ycxsjH265_4000.m3u8
-纬来体育,http://192.168.100.1:5050/smart.php?id=videolandsport&token=kim
+纬来体育,https://smt.1678520.xyz/163189/b10b2645c6d9de2b
 纬来体育,rtmp://f13h.mine.nu/sat/tv721
 纬来体育,http://iptv.digimon.ink/smart.php?id=videolandsport
 睛彩竞技,http://192.168.100.1:6799/rtp/239.49.8.39:8000
