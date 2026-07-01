@@ -97,11 +97,15 @@ CCTV16 4K,http://192.168.100.1:6799/rtp/239.49.0.109:8000
 翡翠台,https://mytv.cdn.loc.cc/o12.php?id=fct
 翡翠台4K,http://cdn6.veryfast.filegear-sg.me/live/fct4k/stream.m3u8
 翡翠台4K,https://cdn6.163189.xyz/163189/fct4k
+凤凰中文,http://xtvantsc.xyz/fhx.php?id=2
 凤凰中文,http://cdn6.veryfast.filegear-sg.me/live/fhzw/stream.m3u8
 凤凰中文,https://cdn6.101.qzz.io/163189/fhzw
 凤凰中文,http://r.jdshipin.com/cCCzW
+凤凰资讯,http://xtvantsc.xyz/fhx.php?id=1
+凤凰资讯,http://r.jdshipin.com/0Rp07
 凤凰资讯,http://cdn6.veryfast.filegear-sg.me/live/fhzx/stream.m3u8
 凤凰资讯,https://cdn6.101.qzz.io/163189/fhzx
+凤凰香港,http://xtvantsc.xyz/fhx.php?id=3
 凤凰香港,http://cdn6.veryfast.filegear-sg.me/live/fhhk/stream.m3u8
 凤凰香港,https://cdn6.101.qzz.io/163189/fhhk
 凤凰香港,http://r.jdshipin.com/yDoTN
