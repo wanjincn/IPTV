@@ -135,7 +135,8 @@ PopC,http://m3u888.zabc.net/bx/api.php?id=popc
 美亚电影台,http://m3u888.zabc.net/bx/api.php?id=meiya
 体育频道,#genre#
 五星体育,https://tv.iill.top/kdf/1605
-五星体育,https://cdn15.163189.xyz/163189/9c893bb003e1c7de
+五星体育,https://cdn15.163189.xyz/163189/wxty
+五星体育,https://live.264788.xyz/channel/wuxingtiyu?streamid=af62547c4c8be0ef4a658f4b4853388f&livekey=01WXuvXJPL8r56AjXduK1QPnhOCNz8fAS078W
 五星体育,http://k.061899.xyz/m.php?id=wxty
 五星体育,http://youngx.top:4022/rtp/233.18.204.58:5140
 五星体育,http://yyf1991.top:9999/rtp/233.18.204.58:5140
