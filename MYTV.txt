@@ -119,6 +119,7 @@ CCTV16 4K,http://192.168.1.2:6799/rtp/239.49.0.109:8000
 TVBS,http://152.69.227.14:9000/?id=TVBS
 TVBS,http://4gtv.cnlive.club/channel/58f128b2/index.m3u8?q=1782639885837
 中天新闻台,http://4gtv.cnlive.club/channel/3824d067/index.m3u8?q=1782639885837
+中天新闻台,	http://173.208.234.146/live/ctinews.m3u8
 江苏节目,#genre#
 兴化新闻综合频道,http://192.168.1.2:6799/rtp/239.49.0.162:8000
 兴化新闻综合频道,http://js-zb-dx-1.sohu.blog:4022/rtp/239.49.0.162:8000
@@ -135,12 +136,8 @@ TVBS,http://4gtv.cnlive.club/channel/58f128b2/index.m3u8?q=1782639885837
 江苏体育休闲,http://192.168.1.2:6799/rtp/239.49.8.117:8000
 优漫卡通,http://192.168.1.2:6799/rtp/239.49.8.119:8000
 影视频道,#genre#
-Now星影台,https://php.946985.filegear-sg.me/iptv/jacktv.php?id=3vr3ae
-Now星影台,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=SwRQgx&tk=H1zXe53SkNzw
-Now星影台,http://23.237.228.133/live2/xingyingtai.m3u8
-NOW爆谷台,https://php.946985.filegear-sg.me/iptv/jacktv.php?id=fxlxlv
-NOW爆谷台,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=BdxggC&tk=H1zXe53SkNzw
-NOW爆谷台,http://23.237.228.133/live2/baogutai.m3u8
+Now星影台,http://173.208.234.146/live/nowxy.m3u8
+NOW爆谷台,http://173.208.234.146/live/nowbg.m3u8
 PopC,http://m3u888.zabc.net/bx/api.php?id=popc
 美亚电影台,http://m3u888.zabc.net/bx/api.php?id=meiya
 体育频道,#genre#
