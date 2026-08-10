@@ -146,6 +146,8 @@ PopC,http://m3u888.zabc.net/bx/api.php?id=popc
 五星体育,https://live.264788.xyz/channel/wuxingtiyu?streamid=af62547c4c8be0ef4a658f4b4853388f&livekey=01WXuvXJPL8r56AjXduK1QPnhOCNz8fAS078W
 五星体育,http://k.061899.xyz/m.php?id=wxty
 五星体育,http://youngx.top:4022/rtp/233.18.204.58:5140
+五星体育,http://rongrong.synology.me:14022/rtp/233.18.204.58:5140
+五星体育,http://pplee.vicp.net:4022/udp/233.18.204.58:5140
 五星体育,http://yyf1991.top:9999/rtp/233.18.204.58:5140
 五星体育,https://other.ottiptv.cc/wxty.m3u8
 劲爆体育,http://goo.bkpcp.top/mg/jbty
